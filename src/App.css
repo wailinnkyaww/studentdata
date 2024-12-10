@@ -1,0 +1,38 @@
+.container {
+  width: 70%;
+  height: fit-content;
+  margin: 10vw 50vw 50vw 20vw;
+  background-color: aqua;
+  padding: 1vw 1vw;
+}
+
+.table-container {
+  background-color: blueviolet;
+  padding: 0.5vw;
+  border-radius: 5px;
+}
+
+th {
+  width: 400px;
+  text-align: left;
+}
+
+button {
+  width: fit-content;
+  margin: 2px;
+  color: #5e560c;
+}
+
+a {
+  color: azure;
+  text-decoration: none;
+}
+
+input {
+  margin-left: 2vw;
+  height: 2vw;
+  width: 400px;
+  border-radius: 7px;
+  border-color: #5e560c;
+  box-shadow: inset;
+}

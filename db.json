@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Wai Lynn",
+      "place": "Meiktila",
+      "phone": "0273809527345"
+    },
+    {
+      "id": "2",
+      "name": "Lynn Wai",
+      "place": "Yangon",
+      "phone": "0273809527"
+    },
+    {
+      "id": "3",
+      "name": "U Wai",
+      "place": "Yangon",
+      "phone": "0273809527"
+    },
+    {
+      "id": "4",
+      "name": "Mg Wai Linn Kyaw",
+      "place": "Yangon",
+      "phone": "0273809527"
+    }
+  ]
+}
